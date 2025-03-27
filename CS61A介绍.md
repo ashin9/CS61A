@@ -1,5 +1,7 @@
 ## CA61A：https://cs61a.org/
 
+CS 61 系列是计算机科学的入门课程，特别强调从程序员的角度介绍软件和机器。
+
 所有课程资源都公开且和本校学生一模一样
 
 课程作业较简单（后面递归各种函数式奇技淫巧并不简单），非常适合 0 基础（个人感觉 0 基础很难吸收吃透，适合 1 基础）
@@ -180,5 +182,4 @@ python3 ok -v	# 显示所有的测试，包括已经通过的测试
 > https://www.cnblogs.com/asandstar/p/16779431.html
 >
 > https://github.com/rigelJ/CS61A/tree/master
-
 
